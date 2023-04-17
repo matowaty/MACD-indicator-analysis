@@ -1,1 +1,1 @@
-# PG_MN_Project_1
+# Technical analysis of MACD indicator
